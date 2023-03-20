@@ -13,3 +13,7 @@ aluno com a maior média e o nome do aluno com a menor média.
 Por fim, exibi os nomes dos alunos, suas médias e os nomes do aluno com a maior e menor média na página usando JavaScript. 
 
 Usei CSS para estilizar a página.
+
+Para conferir o resultado você pode acessar o deploy no link abaixo:
+
+https://exercicio05-sci-sistemas.netlify.app/
